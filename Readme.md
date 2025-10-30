@@ -22,3 +22,5 @@ The vision of Finance Chain is to simplify and democratize access to decentraliz
 - **Governance Features:** Implement a DAO for decentralized decision-making.
 - **Cross-chain Support:** Expand the platform to support multiple blockchains for broader accessibility.
 - **Security Audits:** Regular security audits to ensure the platform’s integrity and safety.
+  <img width="1365" height="265" alt="image" src="https://github.com/user-attachments/assets/39baf74a-3e9f-4722-94ab-66c32bb9fff3" />
+
